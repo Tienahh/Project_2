@@ -1,0 +1,3 @@
+Angel Di Maria;Midfielder;Paris SG;Argentine
+Lionel Messi;Forward;Barcelona;Argentine
+Sergio Aguero;Forward;Manchester City;Argentine
